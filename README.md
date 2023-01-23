@@ -1,8 +1,6 @@
 # ONLINE VOTING SYSTEM
 
 <br>
-<br>
-
 ## ABSTRACT
 <p align="justify">“ ONLINE VOTING SYSTEM ” is an online voting technique. In this system, authorized voters can give his\her vote online without going to any physical polling station. There is a database which is maintained in which all the names of voters with complete information is stored.</p>
 
@@ -12,7 +10,7 @@
 
 
 <br>
-
+<!-- 
 ## SOFTWARE REQUIREMENTS
 <ul type="square">
   <li> <b> Operating System : </b> Any version of Windows NT family (4.0 &above) </li>
@@ -53,7 +51,7 @@
    </li>
   </ul>
   
-  <br>
+  <br> -->
   
 
 ## INSTRUCTIONS
