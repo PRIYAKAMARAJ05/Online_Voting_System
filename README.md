@@ -84,9 +84,9 @@ DOWNLOAD "Online Voting Management System Project"
    
 <br>
 
-## RESULTS
+<!-- ## RESULTS -->
 
-![admin_login](https://user-images.githubusercontent.com/72904996/121797630-16a74900-cc3f-11eb-9762-3be8ae1cb6e8.png)
+<!-- ![admin_login](https://user-images.githubusercontent.com/72904996/121797630-16a74900-cc3f-11eb-9762-3be8ae1cb6e8.png)
 
 ![voter login](https://user-images.githubusercontent.com/72904996/121797592-c29c6480-cc3e-11eb-99e1-ed2268593f54.png)
 
@@ -109,3 +109,4 @@ DOWNLOAD "Online Voting Management System Project"
 ![voter ballot](https://user-images.githubusercontent.com/72904996/121797601-dba51580-cc3e-11eb-92c4-8dee66f4cf57.png)
 
 ![vote submitted](https://user-images.githubusercontent.com/72904996/121797604-e364ba00-cc3e-11eb-80e3-94370306b0e9.png)
+ -->
